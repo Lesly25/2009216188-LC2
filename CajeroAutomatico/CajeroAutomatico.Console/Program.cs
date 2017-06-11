@@ -11,9 +11,11 @@ namespace CajeroAutomatico.Console
     {
         private static BaseDatos baseDatos = new BaseDatos();
 
-
+          
 
         private static int numCuenta = 195292863;
+
+
         private static int pin = 1234;
 
         static void Main(string[] args)
